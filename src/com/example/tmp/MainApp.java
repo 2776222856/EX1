@@ -23,5 +23,8 @@ public class MainApp {
         System.out.println("*** Result for /science/writing111111");
         System.out.println(servlet.doGet("/science/writing"));
         System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
     }
 }
